@@ -76,7 +76,7 @@ public class AxisTick implements Serializable {
     /**
      * 类目轴中在 boundaryGap 为 true 的时候有效，可以保证刻度线和标签对齐。 
      *  defalut:false
-     *  @see http://echarts.baidu.com/option.html#xAxis
+     *  @see --http://echarts.baidu.com/option.html#xAxis
      *  @author w
      *  @date 2018年6月27日 16:31:27
      */
